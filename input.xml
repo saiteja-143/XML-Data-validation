@@ -1,0 +1,23 @@
+<students>
+ <student>
+   <name>Sai Teja.Alla</name>
+  
+   <mobile>+91 6794578956</mobile>
+   <gender>Male</gender>
+   <age>52</age></student>
+ <student>
+   <name>Daryl Dixon</name>
+   
+   <mobile>+05 9874556321</mobile>
+   <gender>Male</gender>
+   <age>45</age>
+ </student>
+<student>
+   <name>Danil Jones</name>
+ 
+   <mobile>+41 8456945612</mobile>
+   <gender>female</gender>
+   <age>10</age>
+
+</student>
+</students>
